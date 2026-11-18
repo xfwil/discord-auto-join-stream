@@ -1,0 +1,5 @@
+# tokens live here: never commit
+.env
+data.json
+data.json.tmp
+operator.lock
